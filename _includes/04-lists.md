@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Some things I enjoy:
+
+* Git
+* Lists
+  * Ordered Lists
+  * Unordered Lists
