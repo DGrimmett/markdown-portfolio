@@ -1,1 +1,1 @@
-https://github.com/DGrimmett
+[GitHub](http://github.com)
